@@ -6,3 +6,4 @@ parte de trabajo de investigacion
 muy nueva en esto:(
 pero aprendiendo  :)
 otra linea
+finalmente veo el preview changes
